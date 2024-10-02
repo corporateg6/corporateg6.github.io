@@ -45,8 +45,8 @@ h3 {
 }
 
 .project img{
-    width: 900px;
-    height: 250px;
+    /* width: 900px;
+    height: 250px; removed to allow for different image sizes*/
     margin: 10px;
     border: 2px solid rgb(175, 182, 237);
     display: block;
