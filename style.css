@@ -10,11 +10,11 @@ h1 {
 }
 
 .about {
-    color:aliceblue;
+    color:black;
 }
 
 .skills {
-    color:salmon;
+    color:black;
 }
 
 .projects {
@@ -22,7 +22,7 @@ h1 {
 }
 
 .contact {
-    color:crimson;
+    color:black;
 }
 
 /* Projects css from example in class  https://kwyandt.github.io/csce190/ */
@@ -57,9 +57,14 @@ h3 {
     border: 2px solid white;
 }
 
-a{
+.a{
     text-decoration: none;
     color: rgb(175, 182, 237);
+}
+
+.a .skills{
+    text-decoration: none;
+    color: rgb(57, 78, 241);
 }
 
 .project a:hover{
